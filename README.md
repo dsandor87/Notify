@@ -13,7 +13,7 @@
 
 ## Overview
 
-[Link to project](https://dsandor87.github.io/Project-notify/#/home)
+[Link to project](https://dsandor87.github.io/Notify/#/home)
 
 * Project two was a 2 day hackathon to build a React application that consumes a public API. It was a paired project.
 
