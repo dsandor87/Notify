@@ -30,7 +30,7 @@
 
 
 ### Home Page
-![Home Page](https://github.com/dsandor87/Project-2-Hackathon-/blob/master/home.gif)
+![Home Page](https://github.com/dsandor87/Notify/blob/master/home.gif)
 
 ### Process
 
@@ -41,7 +41,8 @@ To begin with we hard coded everything so the only artist displayed was Coldplay
 
 ### Search results
 
-![Search result](https://github.com/dsandor87/Project-2-Hackathon-/blob/master/single.gif)
+![Search result](https://github.com/dsandor87/Notify/blob/master/single.gif)
+
 
 We then worked on the styling, using SCSS to complement the basic Bulma styling. Finally, we added a loading gif in a loading component.
 
